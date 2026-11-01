@@ -1,0 +1,74 @@
+MagnoScope Stud Finder
+Privacy Policy, Intended Use and Safety Notice
+Last updated: 1 November 2026
+Contact: recommsip@gmail.com
+
+1. About this app
+
+This notice explains how MagnoScope Stud Finder ("the app", "we", "us") uses information and describes the limits of its magnetic-field visualization features. The app is intended only for entertainment, education and experimentation. It is not a professional, calibrated, certified or safety-rated measuring instrument, stud finder, metal detector or building-inspection tool. Its name and labels do not constitute a promise that it can find a stud.
+
+2. Important detection limitations
+
+The app displays readings from a compatible phone's magnetometer and changes relative to a user-calibrated baseline. A magnetic change may be consistent with a nearby magnetic screw, nail or another source. It does not identify the source or confirm a stud, its center, edges, depth, material or load-bearing capacity.
+
+Wood is not directly detected. Some metals and fasteners may not produce a detectable change. Wires, live electrical circuits, pipes, gas or water services, insulation and other hidden hazards may be missed entirely. A quiet reading or absent alert NEVER means an area is clear or safe.
+
+Readings and alerts can be inaccurate, delayed, unstable or unavailable. Sensor quality and location, phone orientation, movement, calibration, background magnetic fields, wall thickness, accessories, magnetic cases, nearby electronics, vibration and flashlight operation can affect results. Sensitivity settings, peak markers, saved comparisons and reports do not establish accuracy or professional reliability. Demo mode produces simulated data and must not be used for real-world decisions. Watching an ad unlocks convenience features only; it does not improve sensor accuracy or provide a safety certification.
+
+3. Safe use and express assumption of risk
+
+Do not use this app to decide where to drill, cut, nail, screw, demolish or attach a load. Never rely on it to locate or exclude electrical wiring, plumbing, gas lines, structural supports or any other hazard. Use appropriate purpose-built instruments, follow their instructions and relevant safety procedures, and consult a qualified professional before work that could cause injury or damage.
+
+Do not use the app for medical, emergency, navigation, security, industrial or other safety-critical decisions. Keep attention on your surroundings and do not operate it while driving or performing dangerous work. Do not place magnets near implanted medical devices or other magnet-sensitive equipment to test the app; follow the relevant device manufacturer's guidance.
+
+Sound, vibration, screen pulses and flashlight pulses are optional. Keep light effects disabled if you or anyone nearby is sensitive to flashing light. Do not point the flashlight into eyes, use excessive sound levels, or leave the app operating unattended. Stop using it if it causes discomfort, overheating or other problems. You remain responsible for choosing safe, appropriate equipment and methods.
+
+Before accessing the app's features, you must expressly acknowledge the intended use and safety terms. If you nevertheless choose to use the app in connection with drilling, cutting, fastening, construction, inspection or any other work, you do so at your own risk. You acknowledge the risk of injury or death to yourself or other people and damage to your or others' property, including harm caused by hidden utilities, structural defects or reliance on incorrect or absent readings. This acknowledgement does not authorize such use, make it safe, or waive any rights or liabilities that cannot legally be waived. If you do not accept these terms, do not use the app; choose Decline / Exit.
+
+4. Information processed on your device
+
+Magnetic readings are processed locally by the app. We do not operate a server that receives your raw magnetic readings, scan names, bookmarks or reports. The app itself does not request precise location, microphone, contacts or photo-library access, and does not require an account.
+
+Your acknowledgement version, language and acceptance timestamp are stored locally. Language, sensitivity and alert preferences and temporary rewarded-feature access are stored on the device. If you choose to save a scan, its name, timestamp, duration, baseline, peak change and manually marked readings are stored in app-private storage, with up to 20 saved scans and a local backup of the previous archive. Avoid including personal or sensitive details in scan names. Standard device backup services, if enabled, may also back up app data under your device settings.
+
+Sharing is initiated only when you select Share report. Android then lets you choose a recipient or app. On editor/desktop test versions, the report is copied to the clipboard. The service you choose handles the shared copy under its own terms and privacy practices.
+
+5. Advertising and third-party data
+
+The app uses Google's AdMob/Google Mobile Ads SDK and User Messaging Platform (UMP). Although we do not ask you to register or send us scan data, advertising services may collect and share personal data. Depending on the service, your settings, consent and applicable law, this can include IP address (which may indicate approximate location), advertising and other device/app identifiers, device/network details, ad and app interactions, and diagnostic/performance information. This is used for advertising, measurement, analytics and fraud prevention. The app does not add a separate developer analytics or crash-reporting service.
+
+Personalized ads may be used where permitted and where any required consent has been obtained. Non-personalized or limited ads can still involve data processing. We do not send scan reports or magnetic readings to AdMob as advertising parameters. Google and its advertising partners handle data according to their own policies and applicable arrangements; their retention periods and international processing locations may differ from ours.
+
+Google Privacy Policy: https://policies.google.com/privacy
+Google advertising choices: https://myadcenter.google.com/
+Google Mobile Ads data disclosures: https://developers.google.com/admob/android/privacy/play-data-disclosure
+
+6. Your choices, permissions and deletion
+
+Where required, UMP presents privacy choices before ads can be requested. Open Privacy choices in the app to review or change available advertising-consent options. Device settings also provide advertising-ID controls. Simply using the app or reading this notice is not a substitute for any consent required by law. Declining optional advertising consent does not disable basic magnetic visualization; ad availability and rewarded access may be affected.
+
+Camera permission is requested only if you enable Android flashlight alerts. It is used to control the rear flashlight; the app does not capture, record or upload photos or video. You can deny or revoke it and continue using the other features. Vibration is used for optional alerts, and internet access is used by advertising/consent services.
+
+Use the in-app saved-scan deletion control or clear the app's storage in Android settings to remove local reports and settings. Clearing storage or uninstalling can also remove rewarded access. Copies you shared or device backups may remain outside the app; manage those separately. Local scans are not available to us to retrieve or delete remotely. For applicable privacy rights, concerns or requests concerning information we hold, contact recommsip@gmail.com. For Google's data, use its privacy controls and request channels. We use information you voluntarily email us to respond and handle your request, retaining it only as necessary for that purpose and applicable obligations.
+
+7. Rewarded and interstitial ads
+
+Basic visualization and alert configuration are free. An optional rewarded ad grants 30 minutes of Survey Toolkit access only after the ad provider confirms completion. It has no cash value, is stored locally, and does not increase detection capability. Saved reports remain accessible after access expires. Ads may be unavailable, fail to load or be restricted by privacy choices or connectivity.
+
+Interstitials are limited to breaks after the user finishes qualifying scans, not during active scanning. Survey Toolkit access suppresses interstitials while active. Ad content and linked destinations are provided by third parties; opening them is your choice.
+
+8. Children
+
+The app is intended for adults and is not directed to children. We do not knowingly seek personal information from children. If you believe a child has provided personal information to us, contact us so we can investigate and take appropriate action.
+
+9. No warranty and limits on responsibility
+
+To the extent permitted by applicable law, the app, readings, alerts and reports are provided "as is" and "as available", without a guarantee of accuracy, completeness, fitness for a particular purpose, uninterrupted operation or successful detection. To the extent permitted by law, we disclaim liability for losses, property damage or other harm resulting from reliance on inaccurate, missing or misunderstood readings or use outside the intended entertainment and experimental purpose.
+
+Nothing in this notice excludes or limits any liability that cannot lawfully be excluded or limited, including applicable mandatory consumer rights or responsibility for fraud, deliberate misconduct, negligence or personal injury where exclusion is prohibited. This notice does not replace applicable law or professional safety advice.
+
+10. Changes and contact
+
+We may update this notice as the app or data practices change. The current version is available inside the app, and its date appears above. Material changes requiring additional notice or consent will be handled as required by applicable law.
+
+Questions about MagnoScope Stud Finder, this notice, safety limitations or privacy: recommsip@gmail.com
