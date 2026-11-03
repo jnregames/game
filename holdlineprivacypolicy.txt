@@ -1,0 +1,33 @@
+# HOLDLINE Privacy Policy
+
+**Effective date: 3 November 2026**
+
+HOLDLINE is published by the developer of this application. This policy explains what information may be processed when you use the game.
+
+## Information used by the game
+
+HOLDLINE stores gameplay preferences and progress locally on your device, such as language, audio settings, upgrades, and the current sector. The game does not require an account, name, email address, contacts, location, or user-generated content.
+
+The game uses Google Mobile Ads for optional rewarded ads and interstitial ads. Google may process device identifiers, advertising identifiers, approximate device information, and ad interaction data to deliver, limit, measure, and protect advertising, subject to Google’s own policies and your device or consent choices. Ads are configured with Google’s consent tools where required. See Google’s advertising privacy information at https://policies.google.com/technologies/ads.
+
+## How information is used
+
+Local game data is used to provide the requested gameplay experience. Advertising data is used by the advertising provider for ad delivery, frequency control, measurement, fraud prevention, and personalization where permitted.
+
+## Sharing and retention
+
+We do not sell personal information. Local progress remains on your device unless you clear the app’s storage or uninstall the app. Google may retain advertising data according to its policies and settings.
+
+## Children
+
+HOLDLINE is not directed at children under the age required by applicable law. Do not use the game to submit personal information.
+
+## Your choices
+
+You can control advertising personalization and reset your advertising ID through Android settings. You can also decline consent prompts where presented and stop using or uninstall the game at any time.
+
+## Contact
+
+For privacy questions, contact the publisher through the support contact shown on the Google Play listing. This policy may be updated when the game or its advertising services change.
+
+This policy is a store-ready draft. Publish it at a stable HTTPS URL under the publisher’s domain before submitting the app.
